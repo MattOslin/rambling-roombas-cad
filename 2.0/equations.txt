@@ -12,7 +12,7 @@
 "press" = 0.2mm
 "wheelClear" = 0.3mm
 "10-32clear" = 4.8mm
-"10-32tap" = 4.5mm
+"10-32tap" = 4.45mm
 "6-32clear" = 3.3mm
 "8-32clear" = 4.0mm
 "4-40clear" = 3.0mm
