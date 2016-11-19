@@ -3,7 +3,7 @@
 "eighthThick"= 2.9mm
 "sixteenthThick" = 1.7mm
 "quarterThick"=6.0mm
-"OD" = 146mm
+"OD" = 145mm
 "puckAngle" = 60.5deg
 "puckDiam" = 76.5mm
 "puckDist" = 85mm
