@@ -1,6 +1,6 @@
-﻿"smallPulleyTeeth"= 15
+﻿"smallPulleyTeeth"= 30
 "largePulleyTeeth"= 30
-"eighthThick"= 2.9mm
+"eighthThick"= 3.0mm
 "sixteenthThick" = 1.7mm
 "quarterThick"=6.0mm
 "OD" = 145mm
@@ -18,3 +18,6 @@
 "4-40clear" = 3.0mm
 "wheelHeight" = 22mm
 "wheelWell" = 65mm
+"ledSmall" = 3.1mm
+"ledLarge" = 4.2mm
+"ledLength" = 4.2mm
