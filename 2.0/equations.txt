@@ -21,3 +21,8 @@
 "ledSmall" = 3.1mm
 "ledLarge" = 4.2mm
 "ledLength" = 4.2mm
+"4-40close" = 2.7mm
+"4-40nutThick" = 2.2mm
+"4-40nutWidth" = 6.2mm
+"4-40insertHeight" = 3.5mm
+"4-40insert" = 4mm
