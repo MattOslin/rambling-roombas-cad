@@ -1,4 +1,4 @@
-﻿"smallPulleyTeeth"= 30
+﻿"smallPulleyTeeth"= 15
 "largePulleyTeeth"= 30
 "eighthThick"= 3.0mm
 "sixteenthThick" = 1.7mm
@@ -25,4 +25,4 @@
 "4-40nutThick" = 2.2mm
 "4-40nutWidth" = 6.2mm
 "4-40insertHeight" = 3.5mm
-"4-40insert" = 4mm
+"4-40insert" = 4.25mm
