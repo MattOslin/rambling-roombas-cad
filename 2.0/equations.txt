@@ -1,4 +1,4 @@
-﻿"smallPulleyTeeth"= 15
+﻿"smallPulleyTeeth"= 30
 "largePulleyTeeth"= 30
 "eighthThick"= 3.0mm
 "sixteenthThick" = 1.7mm
